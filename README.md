@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukenems
-- 👀 I’m interested in ... Frontend/ Fullstack Engineering < Sustainable Agriculture
+- 👀 I’m interested in ... Front End/ Full Stack Engineering
 - 🌱 I’m currently learning ... React Native, MERN stack, Animation Libraries like three.js
 - 💞️ I’m looking to collaborate on ... Creative Projects
 - 📫 How to reach me ... send me a msg on my personal site, or checkout my linkedin for contact info!
